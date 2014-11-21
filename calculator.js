@@ -100,5 +100,3 @@ if (+) {
 } else {
 	return (firstNum / secondNum);
 }
-
-
